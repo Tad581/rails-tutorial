@@ -22,4 +22,8 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Account to login
+jack@gmail.com
+dat@gmail.com
 # rails-tutorial
